@@ -28,7 +28,7 @@ func main() {
 
 		// NAME
 		var name string
-		fmt.Print("Enter your name: ")
+		fmt.Print("Enter name:  ")
 		fmt.Scan(&name)
 
 		if name == "exit" {
